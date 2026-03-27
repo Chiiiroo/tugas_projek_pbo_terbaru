@@ -100,7 +100,7 @@
         echo "<strong>" . $mhs->tampilkanNama() . "</strong><br>";
         echo $mhs->tampilkanKontak() . "<br>";
         echo "<a href='index.php' class='reset-link'>Reset Form</a>";
-        echo '</div>';
+        echo '</div>'; 
     }
     ?>
 </div>
